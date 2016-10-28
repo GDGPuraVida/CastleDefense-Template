@@ -52,7 +52,6 @@
      <Compile Include="Assets\Game\Scripts\CannonballPool.cs" />
      <Compile Include="Assets\Game\Scripts\Cannoneer.cs" />
      <Compile Include="Assets\Game\Scripts\IPathNode.cs" />
-     <Compile Include="Assets\Game\Scripts\Spawner.cs" />
      <Compile Include="Assets\Game\Scripts\Trajectory.cs" />
      <Compile Include="Assets\Game\Scripts\Waypoint.cs" />
      <Compile Include="Assets\GoogleVR\DemoScenes\ControllerDemo\ControllerDebugInfo.cs" />
